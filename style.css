@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+.nav_bar {
+    border: 1px solid grey;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+.toyota {
+    font-size: xx-large;
+    font-weight: 1000px;
+    color: #e01717;
+}
+.search_icon {
+    margin-left: 20px;
+}
+.button1 {
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: bold;
+    margin-left: 170px;
+}
+.button2 {
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: bold;
+    margin-left: 20px;
+}
+.button3 {
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: bold;
+    margin-left: 20px;
+}
+/* .container-fluid {
+    margin-left: 200px;
+} */
+
+.page2 {
+    border: 1px solid #888585;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 500px;
+    background-image: url(/images/car.jpg);
+    background-size: cover;
+}
+.picks {
+    border: 1px solid red;
+    background-color: red;
+    color: #fff;
+    width: 5vw;
+}
+.date {
+    color: #fff;
+}
+.phev {
+    font-size: 30px;
+    font-style: bold;
+    color: #fff;
+}
+.wrap1 {
+    position: relative;
+    margin-top: 380px;
+    margin-left: 30px;
+}
+.page3 {
+    border: 1px solid #b1aeae;
+    box-sizing: border-box;
+    color: #666868;
+    font: 16px toyota, Arial, Verdana;
+    padding: 30px 16px;
+    background-color: #b1aeae;
+    text-align: center;
+}
+.img1 {
+    border: 1px solid #888585;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 500px;
+    background-image: url(/images/fivemen.jpg);
+    background-size: 800px 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: grey;
+    opacity: 0.9;
+}
+.wrap2 {
+    position: relative;
+    margin-top: 340px;
+    margin-left: 30px;
+} 
+.img2 {
+    border: 1px solid #888585;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 500px;
+    background-image: url(/images/threemen.jpg);
+    background-size: 800px 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: grey;
+    opacity: 0.9;
+}
+.main_box {
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 500px;
+    display: flex;
+}
+.car-box {
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 48vw;
+    height: 95px;
+    display: flex;
+
+}
+.para2 {
+    text-align: center;
+}
